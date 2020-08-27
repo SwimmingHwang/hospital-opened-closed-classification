@@ -37,7 +37,9 @@ from sklearn.ensemble import RandomForestClassifier, GradientBoostingClassifier
 from sklearn import svm
 from sklearn.metrics import confusion_matrix, accuracy_score, roc_auc_score
 from xgboost import XGBClassifier
-from sklearn.metrics import confusion_matrix, accuracy_score, roc_auc_score
 from sklearn.metrics import classification_report
 from sklearn.model_selection import cross_val_score
 ```
+## 5. 코드
+- main0827_final이 열리지 않을 경우 아래 url로 접속   
+https://nbviewer.jupyter.org/github/SwimmingHwang/hospital-opened-closed-classification/blob/master/main0827_final.ipynb
